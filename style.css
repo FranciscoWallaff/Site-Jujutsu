@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+
+
+body{
+    background-color: rgba(133, 44, 44, 0.787);
+    font-family: 'Open Sans', sans-serif;
+    margin:0;
+    padding: 0;
+    
+    
+}
+
+
+#logo-jujutsu{
+    margin-left:40%;
+    width: 225px;
+    
+
+}
+a{
+    list-style: none;
+    text-decoration: none;
+}
+.menu{
+    background-color:rgb(0, 0, 0);
+    border: 0;
+}
+
+.menu ul{
+    max-width: 1000px;
+    list-style: none;
+    background-color:rgb(0, 0, 0);
+    
+    
+    
+}
+.menu ul li{
+    display:inline;
+    padding-left: 16.82%;
+    
+}
+.menu ul li a{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    transition: background .50s;
+    
+    
+}
+.menu ul li a:hover{
+    background-color:rgb(139, 59, 59);
+   
+    
+
+}
+
+
+
+
+
+#primeiro-post{
+    border:3px solid rgb(7, 6, 6);
+    margin:auto;
+    max-width: 1000px;
+    margin-top: 70px;
+    border-radius: 0.5%;
+}
+#imagem-post{
+    width: 900px;
+}
+h1{
+    font-size: 20px;
+}
+p{
+    font-size: 15px;
+}
+.post{
+    
+    margin:auto;
+    width: 900px;
+    text-align: justify;
+    
+    
+}
+.personagem-linha1{
+    margin-top: 100px;
+    margin-left: 150px;
+    margin-right: 700px;
+    font-size: 10px;
+    border: 3px solid black;
+    border-radius: 1%;
+    text-align: justify;
+    
+    
+}
+
+
+.titulo-personagem{
+    text-align: center;
+    color:white;
+    background-color: black;
+    padding: 15px;
+    margin:0;
+    
+}
+#imagem-yugi{
+    max-width: 448px;
+    
+   
+}
+.texto-personagem{
+    
+    margin:10px;
+}
+.personagem-linha2{
+    margin-top: -430px;
+    margin-left: 750px;
+    margin-right: 150px;
+    font-size: 10px;
+    border: 3px solid black;
+    border-radius: 1%;
+    text-align: justify;
+    margin-bottom: 50px;
+}
+#imagem-gojo{
+    width: 400px;
+    
+}
+
+
